@@ -1,0 +1,3 @@
+# Basiswissen
+
+Mandantenspezifischer Basiskontext.
