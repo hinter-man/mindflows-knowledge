@@ -1,0 +1,3 @@
+# Glossar
+
+Fachbegriffe und Abkürzungen.
